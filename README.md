@@ -1,4 +1,4 @@
-#InsuraCare Insurance Portal 🛡️
+**InsuraCare Insurance Portal 🛡️**
 Problem
 Buying insurance in the US can be time-consuming and confusing for customers. They often have to visit multiple websites to compare premium plans, leading to frustration and potentially choosing costly plans that don't suit their budget.
 
